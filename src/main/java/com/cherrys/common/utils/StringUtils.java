@@ -9,7 +9,7 @@ import java.util.UUID;
  * @DATE 2019/10/25 11:05
  * @Version 1.0
  **/
-public class StringUtils {
+public class StringUtils extends org.apache.commons.lang3.StringUtils {
 
 
     /**
