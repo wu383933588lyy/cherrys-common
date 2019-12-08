@@ -20,6 +20,7 @@
         <pagehelper.version>1.2.5</pagehelper.version>
         <hutool.version>5.0.3</hutool.version>
         <commons.version>3.8.1</commons.version>
+        <junit.version>4.12</junit.version>
     </properties>
 
     <dependencies>
@@ -55,6 +56,14 @@
             <artifactId>commons-lang3</artifactId>
             <version>${commons.version}</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/junit/junit -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${junit.version}</version>
+        </dependency>
+
 
     </dependencies>
 
