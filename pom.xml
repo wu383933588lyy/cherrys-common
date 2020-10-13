@@ -20,7 +20,7 @@
         <pagehelper.version>1.2.5</pagehelper.version>
         <hutool.version>5.0.3</hutool.version>
         <commons.version>3.8.1</commons.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
